@@ -12,7 +12,7 @@ API CoinGecko → Python ETL → Snowflake (RAW) → dbt (Staging/Marts)
 - **STAGING**: Dados limpos e padronizados
 - **MARTS**: Modelos analíticos (dimensões + fatos)
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack
 
 - **Python 3.11+**: Extração e carga de dados
 - **Snowflake**: Data warehouse
