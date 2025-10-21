@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: crypto_analytics2
+    schema: raw
+    tables:
+      - name: market_data
+        description: "Dados brutos de criptomoedas extraídos da API CoinGecko"
